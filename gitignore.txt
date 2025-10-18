@@ -1,0 +1,24 @@
+# Netlify
+.netlify/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional
+node_modules/
